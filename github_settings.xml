@@ -6,5 +6,8 @@
     <account id="952616e1-eda0-4c2a-b93c-af5f7a1a4140" name="mark@heijnekamp.nl">
       <server host="github.com" />
     </account>
+    <account id="334985f3-70c7-427d-814f-87c07736d493" name="TheHunterDog">
+      <server host="github.com" />
+    </account>
   </component>
 </application>
